@@ -10,7 +10,7 @@ https://github.com/briannadrew/Winforms-Calculator/assets/44736324/fdf0c236-2a9f
 
 ## Installation
 
-1. To use this program, ensure you have the latest edition of Microsoft Visual Studio installed on your computer.
+1. To use this program, ensure you have the latest edition of [Microsoft Visual Studio]([url](https://visualstudio.microsoft.com/#vs-section)) installed on your computer.
 
 2. Download this repository as a zip file to your machine.
 
