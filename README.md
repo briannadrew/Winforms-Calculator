@@ -4,6 +4,10 @@ This is a Calculator app created in C# using the Windows Forms App (.NET Framewo
 
 
 
+https://github.com/briannadrew/Winforms-Calculator/assets/44736324/fdf0c236-2a9f-42af-8970-dbd74ce5e8fd
+
+
+
 ## Installation
 
 1. To use this program, ensure you have the latest edition of Microsoft Visual Studio installed on your computer.
